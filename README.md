@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @0xOctopus, i'm a 14 years old capitalist 
+print("hello world")
